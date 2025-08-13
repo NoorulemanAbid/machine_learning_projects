@@ -49,7 +49,7 @@ It automates:
 
 > **Tip:** GitHub README cannot render Mermaid diagrams directly. Export your workflow diagram as an image (PNG/SVG) and save it in your repo as `workflow.png`.
 
-![Workflow Diagram](workflow.png)
+![Workflow Diagram](https://github.com/NoorulemanAbid/machine_learning_projects/blob/main/bioactivity/src/data_collection/data_cleaning.png)
 
 **Workflow steps:**
 1. Search ChEMBL Targets  
@@ -82,7 +82,7 @@ Shows the distribution of compounds by activity class.
 
 ## 🔗 Notebook Access
 
-Open in [Colab](https://colab.research.google.com/drive/16LULDqTYip9gcXiwzVpGRx6m6alBV10f)
+Open in [Colab](https://colab.research.google.com/drive/16LULDqTYip9gcXiwzVpGRx6m6alBV10f?usp=sharing)
 
 ---
 
@@ -105,5 +105,4 @@ Open in [Colab](https://colab.research.google.com/drive/16LULDqTYip9gcXiwzVpGRx6
 
 **Created by Noor ul Eman – Bioinformatics & Computational Drug Discovery Enthusiast**
 
-````
 
